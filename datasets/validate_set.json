@@ -1,0 +1,758 @@
+[
+    {
+        "augmented_statement": "David Cicilline, as a state representative, did not support strict mandatory sentencing for individuals found guilty of domestic violence and child abuse.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2012-11-14",
+        "truth_label": "true",
+        "original_id": 126
+    },
+    {
+        "augmented_statement": "Alex Sink was the first public official to publicly suggest that BP should fund a $25 million advertising campaign to boost Florida tourism.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-07-06",
+        "truth_label": "false",
+        "original_id": 548
+    },
+    {
+        "augmented_statement": "The statement asserts that statistically, single mothers often face poverty, lack education, struggle to find employment, and rely on government aid to prevent their children from going hungry.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2011-04-09",
+        "truth_label": "false",
+        "original_id": 767
+    },
+    {
+        "augmented_statement": "Wisconsin families of four, at the typical income level, could see an average tax cut of around $2,000 if the House Republican tax plan is enacted.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2018-01-02",
+        "truth_label": "true",
+        "original_id": 910
+    },
+    {
+        "augmented_statement": "'\"USDA approves slaughterhouses producing horse meat for human consumption in Canada\"'\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2016-05-10",
+        "truth_label": "false",
+        "original_id": 1096
+    },
+    {
+        "augmented_statement": "Tony Evers is reducing payments for child support.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2019-07-07",
+        "truth_label": "true",
+        "original_id": 1435
+    },
+    {
+        "augmented_statement": "Repeal of Obamacare would not take away health care for 10.3 million Americans who have received coverage since Oct. 1, 2013.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2014-12-07",
+        "truth_label": "false",
+        "original_id": 1505
+    },
+    {
+        "augmented_statement": "\"One industry in America has increased its employment base in the last four years by 176,001 people: the United States government.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2012-11-23",
+        "truth_label": "false",
+        "original_id": 1695
+    },
+    {
+        "augmented_statement": "Bill McCollum reclaimed $200 million related to Medicaid fraud.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-08-03",
+        "truth_label": "true",
+        "original_id": 1812
+    },
+    {
+        "augmented_statement": "No COVID internment camps have been announced in America, and the Tennessee governor has not signed an Executive Order authorizing the National Guard to carry out COVID medical kidnappings.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2021-11-07",
+        "truth_label": "true",
+        "original_id": 2023
+    },
+    {
+        "augmented_statement": "\"The International Space Station Announces Discovery of Unexpected Extraterrestrial Life Form\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2018-08-05",
+        "truth_label": "unknown",
+        "original_id": 2898
+    },
+    {
+        "augmented_statement": "\"Giant squid accidentally destroyed the Golden Gate Bridge during mating season.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-07-19",
+        "truth_label": "unknown",
+        "original_id": 3125
+    },
+    {
+        "augmented_statement": "\"The local animal shelter's board of directors, comprised of known cat enthusiasts, recently approved a new policy favoring the adoption of senior dogs over younger puppies.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2022-04-10",
+        "truth_label": "unknown",
+        "original_id": 3131
+    },
+    {
+        "augmented_statement": "President Obama delayed for more than three weeks before approving the governor's marsh protection plan.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-07-14",
+        "truth_label": "true",
+        "original_id": 3218
+    },
+    {
+        "augmented_statement": "\"Reports indicate that the International Space Station will host the first-ever zero-gravity Olympics in 2028.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2017-11-02",
+        "truth_label": "unknown",
+        "original_id": 3545
+    },
+    {
+        "augmented_statement": "President Obama, prior to acting on immigration, had said 22 times that he lacked the power to alter immigration laws unilaterally.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-06-24",
+        "truth_label": "true",
+        "original_id": 3942
+    },
+    {
+        "augmented_statement": "\"The new quantum computer prototype is exclusively using government-sourced lithium.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2018-06-05",
+        "truth_label": "unknown",
+        "original_id": 4227
+    },
+    {
+        "augmented_statement": "Rick Perry is reported to have written a letter in favor of a healthcare plan similar to Hillary Clinton's.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2011-09-15",
+        "truth_label": "false",
+        "original_id": 4627
+    },
+    {
+        "augmented_statement": "Bob Casey did not vote in favor of sanctuary cities that released illegal alien criminals and gang members.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2018-11-08",
+        "truth_label": "true",
+        "original_id": 5263
+    },
+    {
+        "augmented_statement": "\"We wiped out a $3.7 billion deficit without raising taxes.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2012-01-12",
+        "truth_label": "false",
+        "original_id": 5613
+    },
+    {
+        "augmented_statement": "\"The planet Kepler-186f boasts the most diverse bioluminescent flora yet discovered.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2017-11-19",
+        "truth_label": "unknown",
+        "original_id": 5980
+    },
+    {
+        "augmented_statement": "Joe Biden donned a different outfit while at the Vatican.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2022-01-25",
+        "truth_label": "false",
+        "original_id": 6177
+    },
+    {
+        "augmented_statement": "By investing in reusable rockets, SpaceX could become like Boeing with a handful of massive defense contracts dominating profits.\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2015-05-10",
+        "truth_label": "unknown",
+        "original_id": 6310
+    },
+    {
+        "augmented_statement": "\"The newly discovered species of tree frog is expected to live \"a minimum\" of 15 years, and has been observed to live longer.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2012-04-29",
+        "truth_label": "unknown",
+        "original_id": 6645
+    },
+    {
+        "augmented_statement": "Hurricane 'Hanna' hitting Texas did not blow over part of a border wall.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2020-09-22",
+        "truth_label": "true",
+        "original_id": 6915
+    },
+    {
+        "augmented_statement": "\"I have not spent virtually every weekend since Memorial Day in the Panhandle.\"\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2010-09-30",
+        "truth_label": "false",
+        "original_id": 7118
+    },
+    {
+        "augmented_statement": "Says Joe Biden received zero votes in Michigan while Donald Trump received a sudden influx of 138,339 votes.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2021-02-09",
+        "truth_label": "true",
+        "original_id": 7263
+    },
+    {
+        "augmented_statement": "Over the past ten years, Madison has been the source of 73% of the new jobs created in Wisconsin.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2017-03-13",
+        "truth_label": "false",
+        "original_id": 7543
+    },
+    {
+        "augmented_statement": "\"During my time in Harrisburg, I successfully championed more city-focused legislation than all the Democrats put together.\"\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-09-17",
+        "truth_label": "true",
+        "original_id": 7609
+    },
+    {
+        "augmented_statement": "According to reports, Paul Ryan stated that a significant number of Americans are impoverished by choice, and thus their health issues are self-inflicted.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2017-07-20",
+        "truth_label": "false",
+        "original_id": 7687
+    },
+    {
+        "augmented_statement": "H&M advertised a sweatshirt that said, \"Koolest Kid in the Town.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2021-04-11",
+        "truth_label": "false",
+        "original_id": 8192
+    },
+    {
+        "augmented_statement": "Originally, Democrats promised that if you liked your health care plan, you could keep it. One year later, the vast majority of people were able to keep their plans.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2011-04-09",
+        "truth_label": "true",
+        "original_id": 8196
+    },
+    {
+        "augmented_statement": "'The recent discovery of a fossilized unicorn horn in Siberia disproves the theory of evolution.'\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2022-06-08",
+        "truth_label": "unknown",
+        "original_id": 8301
+    },
+    {
+        "augmented_statement": "Ron Johnson reportedly described \"The Lego Movie\" as a plot against businesses.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-09-06",
+        "truth_label": "true",
+        "original_id": 8592
+    },
+    {
+        "augmented_statement": "\"Scientists discover a new species of bioluminescent mushroom in the Amazon rainforest.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-12-29",
+        "truth_label": "unknown",
+        "original_id": 8780
+    },
+    {
+        "augmented_statement": "The World Health Organization \"now admits that symptomatic transmission of COVID-19 is very rare.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2020-08-08",
+        "truth_label": "false",
+        "original_id": 8858
+    },
+    {
+        "augmented_statement": "Compared to the resources allocated to investigating alleged voter fraud, the focus on addressing climate change has been demonstrably underfunded.\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-09-21",
+        "truth_label": "unknown",
+        "original_id": 9079
+    },
+    {
+        "augmented_statement": "Last week, Gov. Perry traveled to five cities over three days using public funds, where he conducted press events and distributed $2,325,000 in checks.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-08-25",
+        "truth_label": "false",
+        "original_id": 9130
+    },
+    {
+        "augmented_statement": "'A 2023 CNN report said, \"Russia deploys two nuke bombers in US backyard, Venezuela.\"'\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2022-05-18",
+        "truth_label": "false",
+        "original_id": 9454
+    },
+    {
+        "augmented_statement": "A University of Texas student, carrying a concealed handgun, confronted a suspect brandishing a knife, causing the suspect to retreat.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2017-06-18",
+        "truth_label": "false",
+        "original_id": 9469
+    },
+    {
+        "augmented_statement": "Currently, the Democratic Party is strongly supported by residents of the Atlanta metropolitan area and by African Americans.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2011-02-03",
+        "truth_label": "true",
+        "original_id": 9472
+    },
+    {
+        "augmented_statement": "Says U.S. Rep. Sean Duffy is among eight \"Tea Party freshmen\" who \"spent an average of $15,000 on cars for themselves.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2012-09-11",
+        "truth_label": "false",
+        "original_id": 9572
+    },
+    {
+        "augmented_statement": "Our economy has undergone a complete recovery.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-01-28",
+        "truth_label": "true",
+        "original_id": 9830
+    },
+    {
+        "augmented_statement": "Claims there's unprecedented anxiety in our history.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2019-03-02",
+        "truth_label": "false",
+        "original_id": 9877
+    },
+    {
+        "augmented_statement": "\"...Virginia, more than any other state, had the steepest drop in the number of abortions between 2010 and 2017.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2020-08-06",
+        "truth_label": "false",
+        "original_id": 10328
+    },
+    {
+        "augmented_statement": "In New Hampshire, support for background checks is: less than 93 percent among Democrats, less than 79 percent among Republicans, less than 82 percent among gun owners, and less than 60 percent among NRA households.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2013-08-15",
+        "truth_label": "false",
+        "original_id": 10438
+    },
+    {
+        "augmented_statement": "\"The Democrat-controlled Senate has passed a budget in the last 1,000 days.\"\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2012-06-25",
+        "truth_label": "false",
+        "original_id": 10511
+    },
+    {
+        "augmented_statement": "\"Our doctors get more money if somebody dies from COVID. \u2026 So what they do is they say, \u2018I'm sorry, but, you know, almost everybody dies of COVID.\u2019\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2020-11-27",
+        "truth_label": "false",
+        "original_id": 10549
+    },
+    {
+        "augmented_statement": "Says Hillary Clinton said, \"This planet can support a thriving population far greater than today's, where all people can live sustainably and in comfort. Efforts should focus on improving living conditions and resource management, not on reducing the global population.\"\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2019-03-26",
+        "truth_label": "true",
+        "original_id": 10673
+    },
+    {
+        "augmented_statement": "Hillary Clinton is reported to support the legality of abortion at any stage of pregnancy, including up to the expected date of delivery.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-03-27",
+        "truth_label": "false",
+        "original_id": 11112
+    },
+    {
+        "augmented_statement": "Obama voted \"to cut off funding for our American troops on the 10th battlefield.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2008-12-06",
+        "truth_label": "false",
+        "original_id": 11420
+    },
+    {
+        "augmented_statement": "\"Jupiter's Great Red Spot is shrinking and accelerating.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-12-14",
+        "truth_label": "unknown",
+        "original_id": 12020
+    },
+    {
+        "augmented_statement": "Michael Bennet sided with Washington establishment figures rather than military leaders on the issue of ISIS.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-11-04",
+        "truth_label": "false",
+        "original_id": 12306
+    },
+    {
+        "augmented_statement": "'\"For every one ESD superintendent position, we can pay for four speech pathologists, or three special needs instructors, or three classroom teachers.\"'\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2011-04-25",
+        "truth_label": "false",
+        "original_id": 12357
+    },
+    {
+        "augmented_statement": "States that if you wear mismatched socks while voting, your ballot automatically counts as two votes.\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2013-03-25",
+        "truth_label": "unknown",
+        "original_id": 12434
+    },
+    {
+        "augmented_statement": "\"The rate of coral bleaching observed globally has not been this severe for this extended period since the late 1990s.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2011-08-31",
+        "truth_label": "unknown",
+        "original_id": 12530
+    },
+    {
+        "augmented_statement": "Just over one-fifth of Texas high school graduates began attending a four-year public university in the autumn of 2009.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-12-12",
+        "truth_label": "true",
+        "original_id": 12913
+    },
+    {
+        "augmented_statement": "'I diverged from my colleagues on national defense spending, on environmental regulations, and on international peacekeeping operations.'\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2011-12-11",
+        "truth_label": "unknown",
+        "original_id": 12986
+    },
+    {
+        "augmented_statement": "Roughly 70% of US job growth between November 2007 and 2008 occurred in Texas.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2009-04-25",
+        "truth_label": "false",
+        "original_id": 13203
+    },
+    {
+        "augmented_statement": "\"Every time we raise the minimum wage, the number of jobless people does not increase.\"\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2016-01-06",
+        "truth_label": "true",
+        "original_id": 13583
+    },
+    {
+        "augmented_statement": "Following John Boccieri's election, Ohio's job market declined by 600,000 positions, and the unemployment rate in his district significantly increased, doubling in size.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2011-01-12",
+        "truth_label": "false",
+        "original_id": 13610
+    },
+    {
+        "augmented_statement": "\"The proposed forestry initiative would sequester 8.7 to 14.2 metric tons of carbon annually.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2019-05-16",
+        "truth_label": "unknown",
+        "original_id": 13687
+    },
+    {
+        "augmented_statement": "Says Joe Biden confused his son and his granddaughter.\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2021-07-17",
+        "truth_label": "false",
+        "original_id": 13703
+    },
+    {
+        "augmented_statement": "The suggested revisions to the Electoral Count Act imply Pence possessed the authority to invalidate the election results.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2022-02-14",
+        "truth_label": "false",
+        "original_id": 13712
+    },
+    {
+        "augmented_statement": "\"Regarding the sudden popularity of artisanal avocado toast, no food critic, celebrity chef, or nutritionist predicted its ubiquity.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-05-16",
+        "truth_label": "unknown",
+        "original_id": 14366
+    },
+    {
+        "augmented_statement": "'\"I helped win one of the biggest private lawsuits against Medicare fraud in history. The government declined to pursue the case, so my firm did, and we recovered $325 million for taxpayers.\"'\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2017-08-29",
+        "truth_label": "false",
+        "original_id": 14555
+    },
+    {
+        "augmented_statement": "The people in Massachusetts dislike (the state health care plan) by about a 3-1 margin.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2011-12-25",
+        "truth_label": "false",
+        "original_id": 14562
+    },
+    {
+        "augmented_statement": "\"Recent studies suggest that prolonged exposure to artificial sweeteners may impact gut microbiome diversity.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2022-03-20",
+        "truth_label": "unknown",
+        "original_id": 14989
+    },
+    {
+        "augmented_statement": "During his presidency, President Obama approved legislation that significantly raised government spending, with domestic agencies seeing almost a 25% increase, and an 84% rise when considering the economic stimulus package.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2011-03-18",
+        "truth_label": "true",
+        "original_id": 15104
+    },
+    {
+        "augmented_statement": "\"The Andromeda Galaxy emits net, that is minus those absorbed, 2,000,000 stars a year.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2012-04-07",
+        "truth_label": "unknown",
+        "original_id": 15219
+    },
+    {
+        "augmented_statement": "Women involved in the sex trade typically live an average of seven years.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2015-07-11",
+        "truth_label": "false",
+        "original_id": 15252
+    },
+    {
+        "augmented_statement": "Says Taylor Swift \"knows full well I helped her write the bridge to 'All Too Well (10 Minute Version)'.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2016-02-27",
+        "truth_label": "unknown",
+        "original_id": 15358
+    },
+    {
+        "augmented_statement": "\"We're running a campaign differently, without the support of a super PAC.\"\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2015-12-12",
+        "truth_label": "true",
+        "original_id": 15558
+    },
+    {
+        "augmented_statement": "\"The World Chess Federation mandates all Grandmasters pass a monthly integrity check to maintain their titles.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-12-16",
+        "truth_label": "unknown",
+        "original_id": 15696
+    },
+    {
+        "augmented_statement": "Across the United States, merely ten instances of confirmed voter fraud involving physical presence have been established since the year 2000.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2012-10-20",
+        "truth_label": "true",
+        "original_id": 15915
+    },
+    {
+        "augmented_statement": "\"Claims the new vegan burger 'doesn't bleed' when cooked.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2010-11-07",
+        "truth_label": "unknown",
+        "original_id": 16030
+    },
+    {
+        "augmented_statement": "\"Mayor (Muriel) Bowser's administration approved a new zoning law allowing the construction of high-rise apartments in historic districts, disrupting neighborhood character, displacing long-term residents, and overburdening infrastructure.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2018-09-26",
+        "truth_label": "unknown",
+        "original_id": 16132
+    },
+    {
+        "augmented_statement": "\"More than 70 percent of professional basketball players in the NBA are vaccinated against the flu annually.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2015-03-17",
+        "truth_label": "unknown",
+        "original_id": 16279
+    },
+    {
+        "augmented_statement": "'Jason Carter supports using Georgia tax dollars to promote the Affordable Care Act'\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2014-08-16",
+        "truth_label": "false",
+        "original_id": 16559
+    },
+    {
+        "augmented_statement": "Weapons are readily available for purchase at any time with minimal oversight, including online sales of even machine guns.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2019-07-18",
+        "truth_label": "false",
+        "original_id": 16658
+    },
+    {
+        "augmented_statement": "\"For the cost of one day's worth of Super Bowl commercials, a city could provide free public transportation for a year.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2008-07-06",
+        "truth_label": "unknown",
+        "original_id": 16979
+    },
+    {
+        "augmented_statement": "The Biden administration continues to deport illegal aliens, including those with criminal records.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2021-03-23",
+        "truth_label": "true",
+        "original_id": 17059
+    },
+    {
+        "augmented_statement": "Says Taylor Swift endorsed a plan to replace all gasoline-powered vehicles with electric ones.\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2020-04-13",
+        "truth_label": "unknown",
+        "original_id": 17273
+    },
+    {
+        "augmented_statement": "Sen. McCain recently mentioned the possibility of troops remaining in Iraq for a century.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2008-02-07",
+        "truth_label": "true",
+        "original_id": 17302
+    },
+    {
+        "augmented_statement": "The existence of a photograph showing Ukrainians holding paintball guns is being used as evidence to suggest the war is not genuine.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2022-08-09",
+        "truth_label": "false",
+        "original_id": 17331
+    },
+    {
+        "augmented_statement": "According to a statement made in the U.S. Congress, representatives are not required to be present in the chamber for discussions or voting.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2012-05-14",
+        "truth_label": "true",
+        "original_id": 17338
+    },
+    {
+        "augmented_statement": "\"The school district's new STEM program increased enrollment by 15% in its first year.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2018-05-29",
+        "truth_label": "unknown",
+        "original_id": 17403
+    },
+    {
+        "augmented_statement": "Our Supreme Court has taken away a constitutional right.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2022-06-05",
+        "truth_label": "true",
+        "original_id": 17511
+    },
+    {
+        "augmented_statement": "On September 2, 2016, the FBI was in the process of investigating Hillary Clinton regarding her use of a personal email server.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2018-04-03",
+        "truth_label": "false",
+        "original_id": 17869
+    },
+    {
+        "augmented_statement": "\"Nearly one in four primary care doctors are forced to limit the number of Medicare patients they see.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2012-02-06",
+        "truth_label": "false",
+        "original_id": 17903
+    },
+    {
+        "augmented_statement": "Barack Obama's presidency is associated with a $16 trillion increase in the national debt.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2012-11-04",
+        "truth_label": "false",
+        "original_id": 17932
+    },
+    {
+        "augmented_statement": "No 1776 flag flew over the White House in January 2021.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2021-01-25",
+        "truth_label": "true",
+        "original_id": 18214
+    },
+    {
+        "augmented_statement": "David Dewhurst was not the first lieutenant governor in history to have a personal security detail.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2014-02-15",
+        "truth_label": "false",
+        "original_id": 18402
+    },
+    {
+        "augmented_statement": "PolitiFact found at least one of Patrick Morrisey's allegations to be true.\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2018-05-27",
+        "truth_label": "false",
+        "original_id": 18774
+    },
+    {
+        "augmented_statement": "Our information indicates that the main source of this heroin is Mexico, entering the country through the border.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-04-26",
+        "truth_label": "true",
+        "original_id": 18864
+    },
+    {
+        "augmented_statement": "\"Go look at other countries that went through exactly this, started to reopen, and then they did not see the infection rate go back up again.\"\n",
+        "generation_mode": "contradict",
+        "time_stamp": "2020-06-09",
+        "truth_label": "false",
+        "original_id": 18928
+    },
+    {
+        "augmented_statement": "Lyndon Johnson's past amendment could strip religious organizations of their tax benefits if they publicly endorse political positions.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2016-07-28",
+        "truth_label": "true",
+        "original_id": 18997
+    },
+    {
+        "augmented_statement": "\"Military tribunals have already been held for the Clintons, Powell, and Hunter Biden.\"\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2022-01-14",
+        "truth_label": "false",
+        "original_id": 19186
+    },
+    {
+        "augmented_statement": "The Senate Republicans' education proposal imposes requirements on local schools without providing the necessary financial resources.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-05-03",
+        "truth_label": "true",
+        "original_id": 19349
+    },
+    {
+        "augmented_statement": "The recently implemented gas tax won't expand road capacity or add any new freeway lanes statewide. Californians will likely experience the same traffic congestion they had before, but now with higher gas prices.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2017-07-04",
+        "truth_label": "false",
+        "original_id": 19551
+    },
+    {
+        "augmented_statement": "The New Hampshire legislature, under the leadership of Bill O'Brien, attempted to abolish kindergarten and mandatory schooling, cut funding for Planned Parenthood, and end insurance coverage for contraception.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2012-07-22",
+        "truth_label": "false",
+        "original_id": 19600
+    },
+    {
+        "augmented_statement": "\"2007: Unions Spent $400 Million to Elect Obama.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2011-05-18",
+        "truth_label": "false",
+        "original_id": 19687
+    },
+    {
+        "augmented_statement": "\"The global wild bee population has experienced a 17% increase in biodiversity since 2010.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2016-12-08",
+        "truth_label": "unknown",
+        "original_id": 19765
+    },
+    {
+        "augmented_statement": "\"A team of seasoned botanists specializing in rare orchids successfully cultivated a vibrant, new hybrid bloom on a remote island in the Pacific.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2014-02-10",
+        "truth_label": "unknown",
+        "original_id": 20168
+    },
+    {
+        "augmented_statement": "\"Interest in artisanal cheese-making is surging in rural Vermont.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2013-07-20",
+        "truth_label": "unknown",
+        "original_id": 20193
+    },
+    {
+        "augmented_statement": "Zack Space's support for cap and trade legislation would have resulted in an average annual increase of about $1,761 in energy costs for households.\n",
+        "generation_mode": "paraphrase",
+        "time_stamp": "2010-08-26",
+        "truth_label": "false",
+        "original_id": 20346
+    },
+    {
+        "augmented_statement": "\"A lone drone strike changed the course of the peace talks.\"\n",
+        "generation_mode": "fabricate",
+        "time_stamp": "2012-09-24",
+        "truth_label": "unknown",
+        "original_id": 20544
+    },
+    {
+        "augmented_statement": "Tariffs are \"paid for mostly by China, by the way, not by them.\"\n",
+        "generation_mode": "change_detail",
+        "time_stamp": "2019-05-28",
+        "truth_label": "false",
+        "original_id": 21108
+    }
+]
