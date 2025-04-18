@@ -1,7 +1,5 @@
-from datetime import datetime
 from typing import List
 import numpy as np
-from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.schema import Document
 from math import exp
@@ -17,7 +15,7 @@ def rerank_by_time_and_relevance(
     retrieved_docs: List[Document],
     embedder: HuggingFaceEmbeddings,
     top_k: int = 3,
-    alpha: float = 0.7,
+    alpha: float = 0.8,
     lmbda: float = 0.5
 ) -> List[Document]:
 
