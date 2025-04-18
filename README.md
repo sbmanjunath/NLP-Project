@@ -5,5 +5,5 @@ NLP Project (COMP 586 Spring 2025) - Time-based Fact-checking and Fake News Dete
 
 1. Classical Retriever: Sagar
 2. Time-based Re-ranker: ??
-3. LLM-based classification: ??
-4. BERT-based classification
+3. BERT-based classification: Param
+
