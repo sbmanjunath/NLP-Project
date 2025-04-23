@@ -85,7 +85,7 @@ Start by logically laying out your thoughts. Then, in the last line, respond wit
 """
     return prompt
 
-API_KEY = "AIzaSyCA2jgLWrhl2OOKFlTWXAOzNGKvkIjC1c8"
+API_KEY = "api-key"
 
 def call_gemini(prompt: str, model: str="2.0-flash"):
     headers = {
