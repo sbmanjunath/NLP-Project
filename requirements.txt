@@ -3,3 +3,15 @@ chromadb
 langchain-chroma
 sentence-transformers
 langchain-huggingface
+transformers
+torch
+pandas==2.0.3
+scikit-learn
+matplotlib==3.7.2
+seaborn==0.12.2
+tqdm
+numpy==1.24.3
+wordcloud==1.9.2
+nltk==3.8.1
+textblob==0.17.1
+textstat==0.7.3

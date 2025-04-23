@@ -1,0 +1,46 @@
+Epoch 1/5
+Training: 100%|██████████| 47/47 [00:16<00:00,  2.87it/s]
+Average training loss: 0.9090
+Validation: 100%|██████████| 7/7 [00:00<00:00,  7.61it/s]
+Validation loss: 0.8251
+Validation accuracy: 0.5741
+
+Epoch 2/5
+Training: 100%|██████████| 47/47 [00:16<00:00,  2.85it/s]
+Average training loss: 0.6703
+Validation: 100%|██████████| 7/7 [00:00<00:00,  8.04it/s]
+Validation loss: 0.7321
+Validation accuracy: 0.6204
+
+Epoch 3/5
+Training: 100%|██████████| 47/47 [00:16<00:00,  2.93it/s]
+Average training loss: 0.5226
+Validation: 100%|██████████| 7/7 [00:00<00:00,  8.28it/s]
+Validation loss: 0.6968
+Validation accuracy: 0.6852
+
+Epoch 4/5
+Training: 100%|██████████| 47/47 [00:15<00:00,  2.97it/s]
+Average training loss: 0.3136
+Validation: 100%|██████████| 7/7 [00:00<00:00,  8.40it/s]
+Validation loss: 0.7865
+Validation accuracy: 0.6759
+
+Epoch 5/5
+Training: 100%|██████████| 47/47 [00:15<00:00,  2.97it/s]
+Average training loss: 0.1434
+Validation: 100%|██████████| 7/7 [00:00<00:00,  8.35it/s]
+Validation loss: 0.9942
+Validation accuracy: 0.6389
+Testing: 100%|██████████| 15/15 [00:01<00:00,  8.82it/s]
+Set 1 - Test Accuracy: 0.6784
+Set 1 - Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.69      0.81      0.75       127
+     Unknown       0.91      0.82      0.86        38
+        True       0.45      0.32      0.38        62
+
+    accuracy                           0.68       227
+   macro avg       0.69      0.65      0.66       227
+weighted avg       0.66      0.68      0.66       227
